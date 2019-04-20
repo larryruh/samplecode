@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script>
+        $q = jQuery.noConflict();  //this eliminates conflict between other libraries that may use $
+        $q(document).ready(function() {  
+            $q("#click-me-button").click(function () {   //event handler for button
+                $q("#my-div").css("width", "300").css("height", "300");  //resize my-div
+            })
+        })
+
+    </script>
+
+
+</head>
+<body>
+    <button id="click-me-button"> Click me</button>
+    <div id="my-div" style=" width: 200px;height: 200px;border: 1px solid black;text-align: center;"> Watch we move! </div>
+
+</body>
+</html>
