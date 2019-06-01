@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="02_04 -Read from file/GroceryList/bin/lib/c3p0-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="02_04 -Read from file/GroceryList/bin/lib/jboss-common-jdbc-wrapper-src.jar"/>
+	<classpathentry kind="lib" path="02_04 -Read from file/GroceryList/bin/lib/jboss-common-jdbc-wrapper.jar"/>
+	<classpathentry kind="lib" path="02_04 -Read from file/GroceryList/bin/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="JDBC/Ex_Files_Java_JDBC_Free/Free Exercise Files/code/ConnectionManager/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Ex_Files_Java_JDBC_Free/Free Exercise Files/code/ConnectionManager/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Ex_Files_Java_JDBC_Free/Free Exercise Files/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Ex_Files_Java_JDBC_Free/Free Exercise Files/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Ex_Files_Java_JDBC_Free/Free Exercise Files/libs/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Ex_Files_Java_JDBC_Free/Free Exercise Files/libs/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/02_GettingStarted/ConnectHSQLDB/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/02_GettingStarted/ConnectMySQL/libs/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/02_GettingStarted/StaticSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/02_GettingStarted/StaticSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/03_Connections/Java7Closeable/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/03_Connections/Java7Closeable/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/03_Connections/JDBCExceptions/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/03_Connections/JDBCExceptions/libs/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/03_Connections/MultiConnect/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/03_Connections/MultiConnect/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/04_ReadingData/GenericGetters/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/04_ReadingData/GenericGetters/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/04_ReadingData/LimitingRows/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/04_ReadingData/LimitingRows/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/04_ReadingData/LoopingRows/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/04_ReadingData/LoopingRows/libs/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/04_ReadingData/PreparedStatements/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/04_ReadingData/PreparedStatements/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/04_ReadingData/Scrollable/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/04_ReadingData/Scrollable/libs/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/04_ReadingData/StoredProcOut/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/04_ReadingData/StoredProcOut/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/04_ReadingData/StoredProcs/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/04_ReadingData/StoredProcs/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/ConnectionManager/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/ConnectionManager/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/DeleteSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/DeleteSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/InsertSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/InsertSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/JavaBeans/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/JavaBeans/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/RetrieveBean/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/RetrieveBean/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/Transactions/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/Transactions/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/UpdateableRS/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/UpdateableRS/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/UpdateSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/05_ManagingData/UpdateSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/06_MetaData/TableList/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/06_MetaData/TableList/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/06_MetaData/TablesAndColumns/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/06_MetaData/TablesAndColumns/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/02_GettingStarted/ConnectHSQLDB/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/02_GettingStarted/ConnectHSQLDB/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/02_GettingStarted/ConnectMySQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/02_GettingStarted/StaticSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/02_GettingStarted/StaticSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/03_Connections/Java7Closeable/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/03_Connections/Java7Closeable/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/03_Connections/JDBCExceptions/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/03_Connections/JDBCExceptions/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/03_Connections/MultiConnect/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/03_Connections/MultiConnect/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/04_ReadingData/GenericGetters/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/04_ReadingData/GenericGetters/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/04_ReadingData/LimitingRows/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/04_ReadingData/LimitingRows/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/04_ReadingData/LoopingRows/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/04_ReadingData/LoopingRows/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/04_ReadingData/PreparedStatements/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/04_ReadingData/PreparedStatements/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/04_ReadingData/Scrollable/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/04_ReadingData/Scrollable/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/04_ReadingData/StoredProcOut/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/04_ReadingData/StoredProcOut/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/04_ReadingData/StoredProcs/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/04_ReadingData/StoredProcs/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/ConnectionManager/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/ConnectionManager/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/DeleteSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/DeleteSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/InsertSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/InsertSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/JavaBeans/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/JavaBeans/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/RetrieveBean/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/RetrieveBean/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/Transactions/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/Transactions/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/UpdateableRS/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/UpdateableRS/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/UpdateSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/05_ManagingData/UpdateSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/06_MetaData/TableList/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/06_MetaData/TableList/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/06_MetaData/TablesAndColumns/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="JDBC/Exercise Files/Solutions/06_MetaData/TablesAndColumns/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="output" path="02_Java7NF/NumericLiterals/bin"/>
+</classpath>

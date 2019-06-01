@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Java/02_04 -Read from file/GroceryList_Final/src"/>
+	<classpathentry kind="src" path="Java/02_04 -Read from file/GroceryList/src"/>
+	<classpathentry kind="src" path="Java/02_Java7NF/NumericLiterals/src"/>
+	<classpathentry kind="src" path="Java/02_Java7NF/SimplifiedGenerics/src"/>
+	<classpathentry kind="src" path="Java/02_Java7NF/StringsInSwitch/src"/>
+	<classpathentry kind="src" path="Java/03_ClassStructures/AnonClasses/src"/>
+	<classpathentry kind="src" path="Java/03_ClassStructures/EnumClasses/src"/>
+	<classpathentry kind="src" path="Java/03_ClassStructures/InstanceFieldInitializer/src"/>
+	<classpathentry kind="src" path="Java/03_ClassStructures/LocalClasses/src"/>
+	<classpathentry kind="src" path="Java/03_ClassStructures/MemberClasses/src"/>
+	<classpathentry kind="src" path="Java/03_ClassStructures/StaticInitializer/src"/>
+	<classpathentry kind="src" path="Java/04_01 - Class Multiple Constructor/RealEstateListings_Final/src"/>
+	<classpathentry kind="src" path="Java/04_01 - Class Multiple Constructor/RealEstateListings/src"/>
+	<classpathentry kind="src" path="Java/04_Reflection/TheClassClass/src"/>
+	<classpathentry kind="src" path="Java/04_Reflection/TypeInfo/src"/>
+	<classpathentry kind="src" path="Java/04_Reflection/WalkInheritance/src"/>
+	<classpathentry kind="src" path="Java/05_01 - Array/Heights_Final/src"/>
+	<classpathentry kind="src" path="Java/05_01 - Array/Heights/src"/>
+	<classpathentry kind="src" path="Java/05_03 - ArrayList/RealEstateMLS_Final/src"/>
+	<classpathentry kind="src" path="Java/05_03 - ArrayList/RealEstateMLS/src"/>
+	<classpathentry kind="src" path="Java/05_04 - Recursion/Recursion/src"/>
+	<classpathentry kind="src" path="Java/05_05 - Array Sorting/InsertionSort/src"/>
+	<classpathentry kind="src" path="Java/05_05 - Array Sorting/SelectionSort/src"/>
+	<classpathentry kind="src" path="Java/05_06 - Array Searching/Binary/src"/>
+	<classpathentry kind="src" path="Java/05_Collections/Queues/src"/>
+	<classpathentry kind="src" path="Java/05_Collections/UseHashSet/src"/>
+	<classpathentry kind="src" path="Java/05_Collections/UseLinkedList/src"/>
+	<classpathentry kind="src" path="Java/05_Collections/UseTreeSet/src"/>
+	<classpathentry kind="src" path="Java/06_01 - FIle Operations/CustomerNames/src"/>
+	<classpathentry kind="src" path="Java/06_01 - FIle Operations/FortuneTeller/src"/>
+	<classpathentry kind="src" path="Java/06_04 - File Challenge/FileChallenge_Final/src"/>
+	<classpathentry kind="src" path="Java/06_Testing/Finally/src"/>
+	<classpathentry kind="src" path="Java/06_Testing/Throwing/src"/>
+	<classpathentry kind="src" path="Java/06_Testing/TryWithResources/src"/>
+	<classpathentry kind="src" path="Java/06_Testing/UsingAsserts/src"/>
+	<classpathentry kind="src" path="Java/07_01 - GUI/Contacts_Final/src"/>
+	<classpathentry kind="src" path="Java/07_01 - GUI/Contacts/src"/>
+	<classpathentry kind="src" path="Java/07_Java7Files/FileTree/src"/>
+	<classpathentry kind="src" path="Java/07_Java7Files/FindingFiles/src"/>
+	<classpathentry kind="src" path="Java/07_Java7Files/ManageFiles/src"/>
+	<classpathentry kind="src" path="Java/07_Java7Files/PathClass/src"/>
+	<classpathentry kind="src" path="Java/07_Java7Files/ReadingAndWriting/src"/>
+	<classpathentry kind="src" path="Java/07_Java7Files/WatchDirectory/src"/>
+	<classpathentry kind="src" path="Java/08_IOStreams/BufferedStreams/src"/>
+	<classpathentry kind="src" path="Java/08_IOStreams/ByteStreams/src"/>
+	<classpathentry kind="src" path="Java/08_IOStreams/CharacterStreams/src"/>
+	<classpathentry kind="src" path="Java/08_IOStreams/ScanningText/src"/>
+	<classpathentry kind="src" path="Java/09_MultiThread/ExtendingThread/src"/>
+	<classpathentry kind="src" path="Java/09_MultiThread/ImplementRunnable/src"/>
+	<classpathentry kind="src" path="Java/09_MultiThread/InterruptThread/src"/>
+	<classpathentry kind="src" path="Java/09_MultiThread/SyncThreads/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Ex_Files_Java_JDBC_Free/Free Exercise Files/code/ConnectionManager/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Ex_Files_Java_JDBC_Free/Free Exercise Files/libs/mysql-connector-java-5.1.47/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/02_GettingStarted/ConnectHSQLDB/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/02_GettingStarted/ConnectMySQL/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/02_GettingStarted/StaticSQL/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/03_Connections/Java7Closeable/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/03_Connections/JDBCExceptions/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/03_Connections/MultiConnect/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/04_ReadingData/GenericGetters/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/04_ReadingData/LimitingRows/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/04_ReadingData/LoopingRows/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/04_ReadingData/PreparedStatements/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/04_ReadingData/Scrollable/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/04_ReadingData/StoredProcOut/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/04_ReadingData/StoredProcs/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/05_ManagingData/ConnectionManager/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/05_ManagingData/DeleteSQL/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/05_ManagingData/InsertSQL/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/05_ManagingData/JavaBeans/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/05_ManagingData/RetrieveBean/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/05_ManagingData/Transactions/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/05_ManagingData/UpdateableRS/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/05_ManagingData/UpdateSQL/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/06_MetaData/TableList/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/06_MetaData/TablesAndColumns/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/02_GettingStarted/ConnectHSQLDB/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/02_GettingStarted/ConnectMySQL/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/02_GettingStarted/StaticSQL/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/03_Connections/Java7Closeable/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/03_Connections/JDBCExceptions/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/03_Connections/MultiConnect/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/GenericGetters/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/LimitingRows/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/LoopingRows/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/PreparedStatements/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/Scrollable/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/StoredProcOut/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/StoredProcs/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/ConnectionManager/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/DeleteSQL/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/InsertSQL/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/JavaBeans/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/RetrieveBean/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/Transactions/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/UpdateableRS/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/UpdateSQL/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/06_MetaData/TableList/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/06_MetaData/TablesAndColumns/src"/>
+	<classpathentry kind="src" path="Java/JDBC/Exercise Files/Solutions/Java7Test/src"/>
+	<classpathentry kind="src" path="Java/Larry Java8/src"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/01_04/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/02_02/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/02_02/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/02_03/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/02_03/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/02_04/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/02_04/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/02_05/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/02_05/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/02_06/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/02_06/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/02_07/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/02_07/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/02_08/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/02_08/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/04_02/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/04_02/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/04_03/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/04_03/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/04_04/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/04_04/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/04_05/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/04_05/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/05_02/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/05_02/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/05_03/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/05_03/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/06_01/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/06_01/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/06_02/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/06_02/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/06_03/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/06_03/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/06_04/end/pages"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/06_04/end/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/06_04/start/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Ex_Files_Selenium_EssT/Exercise Files/07_04/test"/>
+	<classpathentry kind="src" path="Java/QA Projects/Quantum/src/main/java"/>
+	<classpathentry kind="lib" path="Java/JDBC/Ex_Files_Java_JDBC_Free/Free Exercise Files/code/ConnectionManager/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Ex_Files_Java_JDBC_Free/Free Exercise Files/code/ConnectionManager/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Ex_Files_Java_JDBC_Free/Free Exercise Files/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Ex_Files_Java_JDBC_Free/Free Exercise Files/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Ex_Files_Java_JDBC_Free/Free Exercise Files/libs/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Ex_Files_Java_JDBC_Free/Free Exercise Files/libs/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/02_GettingStarted/ConnectHSQLDB/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/02_GettingStarted/ConnectMySQL/libs/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/02_GettingStarted/StaticSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/02_GettingStarted/StaticSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/03_Connections/Java7Closeable/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/03_Connections/Java7Closeable/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/03_Connections/JDBCExceptions/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/03_Connections/JDBCExceptions/libs/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/03_Connections/MultiConnect/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/03_Connections/MultiConnect/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/04_ReadingData/GenericGetters/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/04_ReadingData/GenericGetters/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/04_ReadingData/LimitingRows/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/04_ReadingData/LimitingRows/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/04_ReadingData/LoopingRows/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/04_ReadingData/LoopingRows/libs/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/04_ReadingData/PreparedStatements/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/04_ReadingData/PreparedStatements/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/04_ReadingData/Scrollable/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/04_ReadingData/Scrollable/libs/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/04_ReadingData/StoredProcOut/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/04_ReadingData/StoredProcOut/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/04_ReadingData/StoredProcs/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/04_ReadingData/StoredProcs/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/ConnectionManager/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/ConnectionManager/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/DeleteSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/DeleteSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/InsertSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/InsertSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/JavaBeans/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/JavaBeans/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/RetrieveBean/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/RetrieveBean/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/Transactions/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/Transactions/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/UpdateableRS/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/UpdateableRS/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/UpdateSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/05_ManagingData/UpdateSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/06_MetaData/TableList/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/06_MetaData/TableList/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/06_MetaData/TablesAndColumns/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/06_MetaData/TablesAndColumns/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/02_GettingStarted/ConnectHSQLDB/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/02_GettingStarted/ConnectHSQLDB/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/02_GettingStarted/ConnectMySQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/02_GettingStarted/StaticSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/02_GettingStarted/StaticSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/03_Connections/Java7Closeable/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/03_Connections/Java7Closeable/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/03_Connections/JDBCExceptions/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/03_Connections/JDBCExceptions/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/03_Connections/MultiConnect/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/03_Connections/MultiConnect/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/GenericGetters/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/GenericGetters/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/LimitingRows/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/LimitingRows/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/LoopingRows/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/LoopingRows/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/PreparedStatements/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/PreparedStatements/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/Scrollable/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/Scrollable/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/StoredProcOut/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/StoredProcOut/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/StoredProcs/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/04_ReadingData/StoredProcs/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/ConnectionManager/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/ConnectionManager/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/DeleteSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/DeleteSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/InsertSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/InsertSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/JavaBeans/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/JavaBeans/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/RetrieveBean/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/RetrieveBean/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/Transactions/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/Transactions/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/UpdateableRS/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/UpdateableRS/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/UpdateSQL/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/05_ManagingData/UpdateSQL/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/06_MetaData/TableList/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/06_MetaData/TableList/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/06_MetaData/TablesAndColumns/libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="Java/JDBC/Exercise Files/Solutions/06_MetaData/TablesAndColumns/libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="output" path="Java/02_04 -Read from file/GroceryList/bin"/>
+</classpath>
