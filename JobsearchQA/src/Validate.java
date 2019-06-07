@@ -9,7 +9,7 @@ public class Validate {
 
         WebDriver driver = new ChromeDriver();
 
-        driver.get("http://localhost:8888/jobsearch");
+        driver.get("http://localhost:8888/jobsearch_dev/edit_job.php?mode=new");
 
         NewApplication newApplication = new NewApplication();
         newApplication.submitForm(driver);
