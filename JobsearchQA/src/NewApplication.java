@@ -1,11 +1,13 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-
 import java.util.ArrayList;
-
 import org.junit.Assert;
 import org.openqa.selenium.support.ui.Select;
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
 
 public class NewApplication {
 
@@ -47,7 +49,7 @@ public class NewApplication {
         for (WebElement row : rows) {
             ArrayList<WebElement> cells = (ArrayList<WebElement>) row.findElements(By.tagName("td"));
             for (WebElement cell : cells) {
-                System.out.println(cell.getText());
+                //System.out.println(cell.getText());
             	if(cell.getText().equals(companyName)) {
                 	companyCreated = true;
                 }
@@ -62,6 +64,19 @@ public class NewApplication {
 		}
     	
 		//Data Cleanup Remove the test record
+		String DeleteJobSQL = "delete FROM jobs where company = '" + companyName + "';";
+		String DeleteCompanySQL = "delete FROM company where company_name = '" + companyName + "';";
+		try (
+				Connection conn = DBUtil.getConnection();
+				Statement stmt = conn.createStatement(
+						ResultSet.TYPE_SCROLL_INSENSITIVE, 
+						ResultSet.CONCUR_READ_ONLY);
+				) {
+			stmt.executeQuery(DeleteJobSQL);
+			stmt.executeQuery(DeleteCompanySQL);
 
+		} catch (SQLException e) {
+			System.err.println(e);
+		}
     }
 }
