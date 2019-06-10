@@ -64,7 +64,7 @@ public class NewApplication {
 		}
     	
 		//Data Cleanup Remove the test record
-		String DeleteJobSQL = "delete FROM jobs where company = '" + companyName + "';";
+		String DeleteJobSQL = "delete FROM job where company = '" + companyName + "';";
 		String DeleteCompanySQL = "delete FROM company where company_name = '" + companyName + "';";
 		try (
 				Connection conn = DBUtil.getConnection();
@@ -72,8 +72,8 @@ public class NewApplication {
 						ResultSet.TYPE_SCROLL_INSENSITIVE, 
 						ResultSet.CONCUR_READ_ONLY);
 				) {
-			stmt.executeQuery(DeleteJobSQL);
-			stmt.executeQuery(DeleteCompanySQL);
+			stmt.executeUpdate(DeleteJobSQL);
+			stmt.executeUpdate(DeleteCompanySQL);
 
 		} catch (SQLException e) {
 			System.err.println(e);
